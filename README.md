@@ -17,4 +17,4 @@ FAVORITE_LIBRARIES: list = [Pandas, Scikit_learn, Selenium, Requests]
 
 ![GitHub followers](https://img.shields.io/github/followers/lsglucas?color=%23f5f5f5&label=Followers&logo=github&style=plastic)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lsglucass?color=%23f5f5f5&label=%40lsglucass&logo=twitter&style=plastic) 
-![Linkedin Link](https://img.shields.io/badge/Linkedin-150+=?logo=linkedin&style=plastic&color=grey)
+[![Linkedin Link](https://img.shields.io/badge/Linkedin-150+=?logo=linkedin&style=plastic&color=grey)](https://www.linkedin.com/in/lsglucas/)
