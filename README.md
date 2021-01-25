@@ -13,8 +13,8 @@ DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON]
 FAVORITE_LIBRARIES: list = [Pandas, Scikit_learn, Selenium, Requests]
 ```
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas/github-readme-stats)
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas?tab=repositories)
 
-![GitHub followers](https://img.shields.io/github/followers/lsglucas?color=%23f5f5f5&label=Followers&logo=github&style=plastic)
-![Twitter Follow](https://img.shields.io/twitter/follow/lsglucass?color=%23f5f5f5&label=%40lsglucass&logo=twitter&style=plastic) 
+[![GitHub followers](https://img.shields.io/github/followers/lsglucas?color=%23f5f5f5&label=Followers&logo=github&style=plastic)](https://github.com/lsglucas)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lsglucass?color=%23f5f5f5&label=%40lsglucass&logo=twitter&style=plastic)](https://twitter.com/lsglucass)
 [![Linkedin Link](https://img.shields.io/badge/Linkedin-150+=?logo=linkedin&style=plastic&color=grey)](https://www.linkedin.com/in/lsglucas/)
