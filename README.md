@@ -10,7 +10,7 @@ _Studying Computer Science at [Mackenzie Presbyterian University](https://www.ma
 LANGUAGES: list = [Python, Kotlin, C++, C_Sharp]
 TOOLS: list = [AWS, Git, Linux, REST, OOP]
 DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON]
-FAVORITE_LIBRARIES: list = [Pandas, Scikit-learn, Selenium, Requests]
+FAVORITE_LIBRARIES: list = [Pandas, Scikit_learn, Selenium, Requests]
 ```
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas/github-readme-stats)
