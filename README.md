@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello there 👋, I'm **`Lucas`**  
 
-<!--
-**lsglucas/lsglucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Studying Computer Science at [Mackenzie Presbyterian University](https://www.mackenzie.br) 3/8_  
 
-Here are some ideas to get you started:
+- 📚 I'm currently learning `Kotlin` `C#`  
+- 📑 I'm interested in `Scikit` `ASP.NET Core`  
+- 🏆 I'm currently working to master `Python` 🐍
+  
+```python
+LANGUAGES: list = [Python, Kotlin, C++]
+TOOLS: list = [AWS, Git, Linux, REST, OOP]
+DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON]
+FAVORITE_LIBRARIES: list = [Pandas, Scikit, Selenium, Requests]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas/github-readme-stats)
+
+![GitHub followers](https://img.shields.io/github/followers/lsglucas?color=%23f5f5f5&label=Followers&logo=github&style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/lsglucass?color=%23f5f5f5&label=%40lsglucass&logo=twitter&style=plastic) 
+![Linkedin Link](https://img.shields.io/badge/Linkedin-150+=?logo=linkedin&style=plastic&color=grey)
