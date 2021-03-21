@@ -7,7 +7,7 @@ _Studying Computer Science at [Mackenzie Presbyterian University](https://www.ma
 - 🏆 I'm currently working to master `Python` 🐍
   
 ```py
-LANGUAGES: list = [Python, Kotlin, C++, C_Sharp]
+LANGUAGES: list = [Python, Kotlin, C_Sharp]
 TOOLS: list = [AWS, Git, Linux, REST, OOP]
 DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON]
 FAVORITE_LIBRARIES: list = [Pandas, Scikit_learn, Selenium, Requests]
