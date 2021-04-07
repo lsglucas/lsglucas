@@ -9,7 +9,7 @@ _Studying Computer Science at [Mackenzie Presbyterian University](https://www.ma
 ```py
 LANGUAGES: list = [Python, Kotlin, C_Sharp]
 TOOLS: list = [AWS, Git, Linux, REST, OOP]
-DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON]
+DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON, DynamoDB]
 FAVORITE_LIBRARIES: list = [Scikit_learn, Selenium, Requests]
 FRAMEWORKS: list = [Flask, ASP.NET Core, Pandas, Flutter]
 ```
