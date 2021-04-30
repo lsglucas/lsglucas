@@ -11,7 +11,7 @@ LANGUAGES: list = [Python, Kotlin, C_Sharp]
 TOOLS: list = [AWS, Git, Linux, REST, OOP]
 DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON, DynamoDB]
 FAVORITE_LIBRARIES: list = [Scikit_learn, Selenium, Requests]
-FRAMEWORKS: list = [Flask, ASP.NET Core, Pandas, Flutter]
+FRAMEWORKS: list = [Flask, FastAPI, ASP.NET Core, Flutter]
 ```
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas?tab=repositories)  
