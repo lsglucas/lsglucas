@@ -7,11 +7,10 @@ _Studying Computer Science at [Mackenzie Presbyterian University](https://www.ma
 - 🏆 I'm currently working to master `Python` 🐍
   
 ```py
-LANGUAGES: list = [Python, Kotlin, C_Sharp]
+LANGUAGES: list = [Python, Kotlin, JavaScript]
 TOOLS: list = [AWS, Git, Linux, REST, OOP]
-DATABASE: list = [PostgreSQL, SQlite, MySQL, JSON, DynamoDB]
-FAVORITE_LIBRARIES: list = [Scikit_learn, Selenium, Requests]
-FRAMEWORKS: list = [Flask, FastAPI, ASP.NET Core, Flutter]
+DATABASES: list = [PostgreSQL, SQlite, MySQL, JSON, DynamoDB]
+FRAMEWORKS: list = [Flask, FastAPI, VueJS, ASP.NET Core, Flutter]
 ```
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas?tab=repositories)  
