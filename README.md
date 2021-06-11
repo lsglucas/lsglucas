@@ -2,8 +2,8 @@
 
 _Studying Computer Science at [Mackenzie Presbyterian University](https://www.mackenzie.br) 3/8_  
 
-- 📚 I'm currently learning `Kotlin` `C#`  
-- 📑 I'm interested in `Scikit` `ASP.NET Core`  
+- 📚 I'm currently learning `C#` `JavaScript` 
+- 📑 I'm interested in `Flutter` `VueJS` `ASP.NET Core`  
 - 🏆 I'm currently working to master `Python` 🐍
   
 ```py
