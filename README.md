@@ -2,15 +2,15 @@
 
 _Studying Computer Science at [Mackenzie Presbyterian University](https://www.mackenzie.br) 3/8_  
 
-- 📚 I'm currently learning `C#` `JavaScript` 
-- 📑 I'm interested in `Flutter` `VueJS` `ASP.NET Core`  
+- 📚 I'm currently learning `TypeScript` & `Flutter`
+- 📑 The **best** front-end framework: `VueJS`  
 - 🏆 I'm currently working to master `Python` 🐍
   
 ```py
-LANGUAGES: list = [Python, Kotlin, JavaScript]
-TOOLS: list = [AWS, Git, Linux, REST, OOP]
+LANGUAGES: list = [Python, Kotlin, TS/JS]
+TOOLS: list = [AWS, Git, Linux, REST, OOP, Google Cloud]
 DATABASES: list = [PostgreSQL, SQlite, MySQL, JSON, DynamoDB]
-FRAMEWORKS: list = [Flask, FastAPI, VueJS, ASP.NET Core, Flutter]
+FRAMEWORKS: list = [Flask/FastAPI, VueJS, Flutter]
 ```
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas?tab=repositories)  
