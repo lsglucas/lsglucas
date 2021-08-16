@@ -10,7 +10,7 @@ _Studying Computer Science at [Mackenzie Presbyterian University](https://www.ma
 LANGUAGES: list = [Python, TS/JS, Dart, 'C#']
 TOOLS: list = [AWS, Git, Linux, REST, OOP, Google Cloud, GraphQL]
 DATABASES: list = [PostgreSQL, SQlite, MySQL, MongoDB, DynamoDB, Redis]
-FRAMEWORKS: list = [FastAPI, VueJS, Flutter, ExpressJS]
+FRAMEWORKS: list = [FastAPI, VueJS, Flutter, ExpressJS, NestJS]
 ```
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas?tab=repositories)  
 [![GitHub Badge](https://img.shields.io/github/followers/lsglucas?color=%23f5f5f5&label=Followers&logo=github&style=plastic)](https://github.com/lsglucas)
