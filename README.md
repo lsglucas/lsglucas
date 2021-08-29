@@ -1,6 +1,6 @@
 # Hello there 👋, I'm **`Lucas`**  
 
-_Studying Computer Science at [Mackenzie Presbyterian University](https://www.mackenzie.br) 3/8_  
+_Studying Computer Science at [Mackenzie Presbyterian University](https://www.mackenzie.br) 4/8_  
 
 - 📚 I'm currently learning `TypeScript`, `Flutter` & `C#`
 - 📑 The **best** front-end framework: `VueJS`  
