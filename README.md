@@ -1,9 +1,8 @@
 # Hello there 👋, I'm **`Lucas`**  
 
-_Studying Computer Science 6/8_  
+_Studying Computer Science 7/8_  
 
-- 📚 I'm currently learning `Flutter`
-- 📑 The **best** front-end framework: `VueJS`  
+- 📑 The **best** front-end framework: `NuxtJS`  
 - 🏆 I'm master at `Python` 🐍
   
 ```py
