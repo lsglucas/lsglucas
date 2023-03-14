@@ -2,7 +2,7 @@
 
 _Studying Computer Science 7/8_  
 
-- 📑 The **best** front-end framework: `NuxtJS`  
+- 📑 The **best** front-end framework: `Flutter`  
 - 🏆 I'm master at `Python` 🐍
   
 ```py
