@@ -6,7 +6,7 @@ _Studying Computer Science 7/8_
 - 🏆 I'm master at `Python` 🐍
   
 ```py
-LANGUAGES: list = [Python, TS/JS, Dart]
+LANGUAGES: list = [Python, TS/JS, Dart, 'C#']
 TOOLS: list = [AWS, Git, Linux, REST, OOP, Google Cloud, GraphQL, NodeJS]
 DATABASES: list = [PostgreSQL, SQlite, MySQL, MongoDB, DynamoDB, Redis]
 FRAMEWORKS: list = [FastAPI, VueJS, ASP.NET, Flutter, ExpressJS, NestJS]
