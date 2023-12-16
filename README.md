@@ -1,16 +1,5 @@
 # Hello there 👋, I'm **`Lucas`**  
 
-_Studying Computer Science 7/8_  
-
-- 📑 The **best** front-end framework: `Flutter`  
-- 🏆 I'm master at `Python` 🐍
-  
-```py
-LANGUAGES: list = [Python, TS/JS, Dart, 'C#']
-TOOLS: list = [AWS, Git, Linux, REST, OOP, Google Cloud, GraphQL, NodeJS]
-DATABASES: list = [PostgreSQL, SQlite, MySQL, MongoDB, DynamoDB, Redis]
-FRAMEWORKS: list = [FastAPI, VueJS, ASP.NET, Flutter, ExpressJS, NestJS]
-```
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lsglucas&count_private=true&show_icons=true&theme=dark)](https://github.com/lsglucas?tab=repositories)  
 [![GitHub Badge](https://img.shields.io/github/followers/lsglucas?color=%23f5f5f5&label=Followers&logo=github&style=plastic)](https://github.com/lsglucas)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-=?logo=linkedin&style=plastic&color=grey)](https://www.linkedin.com/in/lsglucas/)
